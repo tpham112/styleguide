@@ -1,0 +1,75 @@
+
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.colors div {
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+}
+.colors p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.hammerheadblue {
+    background-color: #4A5B6E;
+}
+
+.sakurapink {
+    background-color: #FFD1CA;
+}
+
+.calmwhite {
+    background-color: #F5EFEE;
+}
+
+.bubbleblue {
+    background-color: #96B8C4;
+}
+
+.fonts div {
+    display: inline-block;
+    width: 33%;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.textstyles div {
+    display: inline-block;
+    width: 33%;
+}
+
+.textstyles h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    text-align: left;
+}
+
+.textstyles div h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
+
+.textstyles p {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    text-align: left;
+}
+
+.textstyles li {
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+}
